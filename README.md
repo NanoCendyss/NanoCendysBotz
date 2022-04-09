@@ -57,7 +57,7 @@ Click Run
 [`Click Here`](https://linktr.ee/NanoCendys)
 
 ## SCRIPT
-* Unduh File Bot Lengkap Node Modules [`Click Here`](https://drive.google.com/)
+* Unduh File Bot Lengkap Node Modules [`Click Here`](https://nanocendys.wordpress.com/)
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
 
